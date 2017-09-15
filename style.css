@@ -1,0 +1,110 @@
+    *{
+        margin:0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+body{
+    font-family: helvetica Neue,Ariel;
+    font-size: 18px;
+    
+}    
+
+h1,h2{
+        
+
+    }
+
+    h1{
+        padding-top: auto;
+        color: cadetblue;
+        font-size: 40px;
+        margin-bottom: 20px;
+
+
+
+    }
+
+    h2{
+
+        color:slategrey;
+        font-size: 20px;
+        margin-bottom: 10px;
+
+    }
+
+   
+    p {
+        font-style: normal;
+         font-family: helvetica neue,Ariel;   
+        text-align: justify;
+        margin-bottom: 10px;
+    }
+
+
+
+    .image1 {
+        border-style: solid;
+        border-color: green;
+        width:75%;
+        
+
+
+
+
+    }
+
+    #button {
+        size:50px
+        border-color: slategrey;
+        background-color: darkgray;
+        tab-size: 100px;
+
+
+    }
+
+    .container {
+        width: 1140px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .content {
+        background-color: white;
+        width: 75%;
+        float: left;
+        box-sizing: content-box;
+    }
+
+    .Side-content {
+        background-color: pink;
+    }
+
+    .author-box {
+        background-color: lightyellow;
+width:25%;
+        image
+        
+    }
+
+    .side-content {
+        background-color: lightyellow;
+        width: 25%;
+        float: left;
+    }
+
+    .clearfix: after {
+        content:"";
+        display: table;
+        clear:both;
+
+    }
+
+   
+#amrita {
+    font-size: 22px;
+}
+
+#amrita-image {
+    
+}
